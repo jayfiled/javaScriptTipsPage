@@ -60,9 +60,6 @@ function onTipButtonClick() {
 onTipButtonClick();
 
 
-onTipButtonClick(); 
-
-
 /*
 // Tip Limit counter
 var tipLimit = 3;
